@@ -113,6 +113,3 @@ ssh key: /home/jdoe/.ssh/id_rsa
 $ git pull
 Already up-to-date.
 ```
----
-
-[![ZenHub](https://raw.githubusercontent.com/ZenHubIO/support/master/zenhub-badge.png)](https://zenhub.com)
